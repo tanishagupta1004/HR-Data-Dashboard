@@ -18,3 +18,6 @@ Based on the findings from the HR Analytics Dashboard:
 1. It has been observed that the life science education department exhibits the highest count of attrition, closely followed by the medical department.
 2. Furthermore, the research and development (R&D) department reports the highest percentage of attrition among all departments
 3. Additionally, it is notable that the majority of employees fall within the 25-34 age group, constituting the highest number of employees in the organization.
+
+Demo:
+https://www.youtube.com/watch?v=hYWHdNZszO0
